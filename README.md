@@ -2,7 +2,7 @@
 
 # 🚀 Shivam Yadav — AI & Data Science Portfolio
 
-🌐 **Live Portfolio:** https://vercel.com/yshivamcodes-projects/portfolio
+🌐 **Live Portfolio:** https://portfolio-ashy-nu-12aoaogdb0.vercel.app/
 
 ---
 
